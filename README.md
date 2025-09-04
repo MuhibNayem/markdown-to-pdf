@@ -28,7 +28,5 @@ Content-Type: application/json
 
 {
   "content": "{\"title\": \"John Doe's - Dialogue Summary\", \"summary\": \"# Patient Background\\n- **Age:** 62\\n- **Occupation:** Self-employed\\n\\n### Symptoms\\n- Difficulty with urination\\n- Recent fracture in the leg\"}",
-  "filename": "medical_summary",
-  "font_size": 12,
-  "font_family": "Arial"
+  "filename": "medical_summary"
 }
